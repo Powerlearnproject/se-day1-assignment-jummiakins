@@ -5,6 +5,8 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+software engineering is the process of developing solutons for problems in the real world using computer technology.
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
